@@ -27,5 +27,3 @@ ECE 143 Winter 2023 Final Project Group 2 - Heart Disease Analysis and Predictio
 - matplotlib
 - seaborn 
 - sklearn
-
-Include a readme file that explains your file structure, how to run your code, and name all third-party modules you are using. 
